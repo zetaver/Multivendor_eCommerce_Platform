@@ -87,7 +87,7 @@ MultiMart is a modern multi-vendor e-commerce platform built with React, TypeScr
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/multimart.git
+git clone https://github.com/zetaver/Multivendor_eCommerce_Platform.git
 cd multimart
 ```
 
