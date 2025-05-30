@@ -44,11 +44,11 @@ MultiMart is a modern multi-vendor e-commerce platform built with React, TypeScr
 ### Customer Interface
 
 #### Home Page
-![Home Page](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&h=630)
+![Home Page](./screenshots/home.png)
 *Modern and intuitive home page with featured products and categories*
 
 #### Product Listing
-![Product Listing](https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1200&h=630)
+![Product Listing](./screenshots/products.png)
 *Grid layout with advanced filtering options*
 
 ### Vendor Dashboard
