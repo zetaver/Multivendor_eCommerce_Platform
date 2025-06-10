@@ -1,10 +1,10 @@
-# MultiMart - Multi-Vendor E-commerce Platform
+# MultiMart - Multivendor Ecommerce Platform React
 
 ![MultiMart Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&h=630)
 
 ## Overview
 
-MultiMart is a modern multi-vendor e-commerce platform built with React, TypeScript, and Tailwind CSS. It provides a seamless experience for customers to shop from multiple vendors and for vendors to manage their stores through a professional dashboard.
+MultiMart is a modern Multivendor Ecommerce Platform React built with React, TypeScript, and Tailwind CSS. It provides a seamless experience for customers to shop from multiple vendors and for vendors to manage their stores through a professional dashboard.
 
 ## Features
 
